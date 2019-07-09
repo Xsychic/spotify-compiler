@@ -1,0 +1,6 @@
+The scripts require the following libraries to run (as well as some included with python):
+
+spotipy
+requests
+spotipy.util
+bs4 (BeautifulSoup)
